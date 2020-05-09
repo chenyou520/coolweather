@@ -2,6 +2,9 @@ package com.coolweather.android.db;
 
 import org.litepal.crud.LitePalSupport;
 
+/**
+ * 省级数据表
+ */
 public class Province extends LitePalSupport {
     /**
      *字段名

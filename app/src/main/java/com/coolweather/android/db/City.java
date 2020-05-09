@@ -2,6 +2,9 @@ package com.coolweather.android.db;
 
 import org.litepal.crud.LitePalSupport;
 
+/**
+ * 市级数据表
+ */
 public class City extends LitePalSupport {
     /**
      * 字段名
